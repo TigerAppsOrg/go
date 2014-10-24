@@ -1,0 +1,12 @@
+body {
+    text-rendering:optimizeLegibility;
+}
+
+#hero {
+    background:#555555;
+}
+
+#searchgroup {
+    margin-top:50px;
+}
+
